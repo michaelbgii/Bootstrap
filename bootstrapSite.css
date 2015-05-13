@@ -1,0 +1,36 @@
+.navbar {
+    margin-top: 15px;
+    position: absolute;
+    z-index: 1;
+}
+#myCarousel {
+    position: relative;
+ }
+.row{
+    margin-top: 60px;
+}
+.row p {
+    margin:0 20px
+}
+.row button {
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+.divider {
+    height: 1px;
+    margin: 0 0 100px 0;
+    background-color: #d3d3d3;
+}
+.media {
+    height: 500px;
+    margin: 0 0 100px 0;
+}
+.formcontainer {
+    width: 500px;
+    height: auto;
+    margin: 100px;
+}
+.window {
+    min-height: 400px;
+    background: transparent;
+}
